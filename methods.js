@@ -50,7 +50,7 @@ console.log(reversed)
 let filtered = arr.filter((item) => item > 5)
 console.log(filtered)
 
-let find = arr.find((item) => 11)
+let find = arr.find((item) => 11) 
 console.log(find)
 
 // and more ....
